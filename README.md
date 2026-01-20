@@ -24,4 +24,3 @@ The **Pizza Sales Dashboard** is a data visualization project designed to analyz
 
 ---
 
-## 📂 Project Structure
